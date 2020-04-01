@@ -24,7 +24,7 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
   
 ## 5. COVID-19: perceptions, market reactions and policy responses
   - Contributors: [Angela Capolongo](https://github.com/AngelaCapolongo)
-  
+   - Content: 
   
 
 
