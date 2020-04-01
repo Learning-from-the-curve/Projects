@@ -1,5 +1,5 @@
 # Projects
-This repo describes the current projects on COVID and economics (in chronological order).
+This repo describes the current projects on COVID and economics (in no particular order).
 
 Feel free to contact the contributors if you would like to participate.
 Also, you can help by browsing issues and see if you can contribute to a particular small task of a project.
@@ -22,7 +22,8 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
   - Contributors: [Bruno Carvalho](https://github.com/bmpcarvalho)  and [Moritz Hennecke](https://github.com/AAoritz)
   - Content: 
   
-  
+## 5. COVID-19: perceptions, market reactions and policy responses
+  - Contributors: [Angela Capolongo](https://github.com/AngelaCapolongo)
   
   
 
