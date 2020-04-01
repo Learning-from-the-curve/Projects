@@ -14,8 +14,14 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
   - Contributors: [Glenn Magerman](https://github.com/glennmagerman).
   - Content: This project will do a within-country analysis for COVID cases and the relationship with demographics, economics etc. We target Belgium, France and Italy, and other countries as more detailed data becomes available. Ideally we share the same methodology across counrtries, with sub-teams working per country.
   
-## 3. Health data for France
-  - Contributors: 
+## 3. COVID spread and pollution relationship
+  - Contributors: [Ilaria Natali](https://github.com/Ilaria0205)
+  - Content: 
+  
+## 4. COVID spread and stock market responses
+  - Contributors: [Bruno Carvalho](https://github.com/bmpcarvalho)  and [Moritz Hennecke](https://github.com/AAoritz)
+  - Content: 
+  
   
   
   
