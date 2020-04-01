@@ -15,8 +15,8 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
   - Content: This project will do a within-country analysis for COVID cases and the relationship with demographics, economics etc. We target Belgium, France and Italy, and other countries as more detailed data becomes available. Ideally we share the same methodology across counrtries, with sub-teams working per country.
   
 ## 3. COVID spread and pollution relationship
-  - Contributors: [Ilaria Natali](https://github.com/Ilaria0205)
-  - Content: 
+  - Contributors: [Sofia Amaral-Garica]() and [Ilaria Natali](https://github.com/Ilaria0205).
+  - Content: This project will focus on the relationship between indicators of the quality of air/pollution levels and the   spread of CODIV-19. The goal is to find out whether, and to what extent, pollution can act as a ‘vector’, facilitating transmission and allowing the virus to spread quickly. Ideally, the project will exploit variation in indicators of the quality of air and the number of CODIV-19 cases across regions within the same country and across European counties.”
   
 ## 4. COVID spread and stock market responses
   - Contributors: [Bruno Carvalho](https://github.com/bmpcarvalho)  and [Moritz Hennecke](https://github.com/AAoritz)
@@ -24,7 +24,7 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
   
 ## 5. COVID-19: perceptions, market reactions and policy responses
   - Contributors: [Angela Capolongo](https://github.com/AngelaCapolongo)
-   - Content: 
+  - Content: 
   
 
 
