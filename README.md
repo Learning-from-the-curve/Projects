@@ -22,7 +22,7 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
   - Notes: detailed data sources by country are referenced in the links of the country names. 
   
 ## 3. COVID spread and pollution relationship
-  - Contributors: [Sofia Amaral-Garica]() and [Ilaria Natali](https://github.com/Ilaria0205).
+  - Contributors: [Sofia Amaral-Garcia](https://github.com/samaralgarcia) and [Ilaria Natali](https://github.com/Ilaria0205).
   - Content: This project will focus on the relationship between indicators of the quality of air/pollution levels and the   spread of CODIV-19. The goal is to find out whether, and to what extent, pollution can act as a ‘vector’, facilitating transmission and allowing the virus to spread quickly. Ideally, the project will exploit variation in indicators of the quality of air and the number of CODIV-19 cases across regions within the same country and across European counties.”
   
 ## 4. COVID spread and stock market responses
