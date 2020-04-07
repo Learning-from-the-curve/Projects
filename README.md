@@ -21,13 +21,10 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
     - [USA](https://github.com/nytimes/covid-19-data):
   - Content: This project will do a within-country analysis for COVID cases and the relationship with demographics, economics etc. Ideally we share the same methodology across counrtries, with sub-teams working per country.
   - Datasets
-    - Belgium: [COVID](https://epistat.wiv-isp.be/covid/), [life tables](https://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.4%20Sterfte%2C%20levensverwachting%20en%20doodsoorzaken/5.4.3%20Sterftetafels%20en%20levensverwachting/sterftetafelsAE.xls), ... 
+    - Belgium: [COVID](https://epistat.wiv-isp.be/covid/), [life tables](https://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.4%20Sterfte%2C%20levensverwachting%20en%20doodsoorzaken/5.4.3%20Sterftetafels%20en%20levensverwachting/sterftetafelsAE.xls), [mortality rates](https://epistat.wiv-isp.be/momo/) ... 
+- Netherlands: [Mortality rates](https://www.rivm.nl/monitoring-sterftecijfers-nederland)[Cause of death](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table?ts=1586241169874), ...
 
-
-  - Other datasets
-    - Cause of death [Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table?ts=1586241169874).
-    - Mortality rates [Netherlands](https://www.rivm.nl/monitoring-sterftecijfers-nederland)
-  
+ 
 ## 3. COVID spread and pollution relationship
   - Contributors: [Sofia Amaral-Garcia](https://github.com/samaralgarcia) and [Ilaria Natali](https://github.com/Ilaria0205).
   - Content: This project will focus on the relationship between indicators of the quality of air/pollution levels and the   spread of CODIV-19. The goal is to find out whether, and to what extent, pollution can act as a ‘vector’, facilitating transmission and allowing the virus to spread quickly. Ideally, the project will exploit variation in indicators of the quality of air and the number of CODIV-19 cases across regions within the same country and across European counties.”
