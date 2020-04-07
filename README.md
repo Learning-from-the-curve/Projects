@@ -12,7 +12,7 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
 
 ## 2. Within-country analysis for several countries (looking for contributors!)
   - Contributors: (general, not allocated yet:) [Moritz Hennecke](https://github.com/AAoritz)
-    - [Belgium](https://epistat.wiv-isp.be/covid/): [Glenn Magerman](https://github.com/glennmagerman)
+    - [Belgium](): [Glenn Magerman](https://github.com/glennmagerman)
     - [France](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/) and [here](https://github.com/opencovid19-fr/data):
     - [Germany](https://github.com/jgehrcke/covid-19-germany-gae):
     - [Italy](https://github.com/pcm-dpc/COVID-19): [Stefano Falcone](), [Elisa Navarra](https://github.com/elisanavarra)
@@ -20,7 +20,10 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
     - [Spain](https://github.com/datadista/datasets/tree/master/COVID%2019):
     - [USA](https://github.com/nytimes/covid-19-data):
   - Content: This project will do a within-country analysis for COVID cases and the relationship with demographics, economics etc. Ideally we share the same methodology across counrtries, with sub-teams working per country.
-  - Notes: detailed data sources by country are referenced in the links of the country names. 
+  - Datasets
+    - Belgium: [COVID](https://epistat.wiv-isp.be/covid/), [life tables](https://statbel.fgov.be/sites/default/files/files/documents/bevolking/5.4%20Sterfte%2C%20levensverwachting%20en%20doodsoorzaken/5.4.3%20Sterftetafels%20en%20levensverwachting/sterftetafelsAE.xls), ... 
+
+
   - Other datasets
     - Cause of death [Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table?ts=1586241169874).
     - Mortality rates [Netherlands](https://www.rivm.nl/monitoring-sterftecijfers-nederland)
