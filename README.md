@@ -21,6 +21,9 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
     - [USA](https://github.com/nytimes/covid-19-data):
   - Content: This project will do a within-country analysis for COVID cases and the relationship with demographics, economics etc. Ideally we share the same methodology across counrtries, with sub-teams working per country.
   - Notes: detailed data sources by country are referenced in the links of the country names. 
+  - Other datasets
+    - Cause of death [Netherlands](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table?ts=1586241169874).
+    - Mortality rates [Netherlands](https://www.rivm.nl/monitoring-sterftecijfers-nederland)
   
 ## 3. COVID spread and pollution relationship
   - Contributors: [Sofia Amaral-Garcia](https://github.com/samaralgarcia) and [Ilaria Natali](https://github.com/Ilaria0205).
