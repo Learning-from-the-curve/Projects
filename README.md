@@ -11,7 +11,7 @@ Also, you can help by browsing issues and see if you can contribute to a particu
 Data and code are available [here](https://github.com/Learning-from-the-curve/daily-updates).
 
 ## 2. Within-country analysis for several countries (looking for contributors!)
-  - Contributors: (general, not allocated yet:) [Moritz Hennecke](https://github.com/AAoritz)
+  - Contributors: (general, not allocated yet:) [Moritz Hennecke](https://github.com/AAoritz), Sofia Amaral-Garcia (Portugal or Spain?), Federico Gallina?
     - [Belgium](): [Glenn Magerman](https://github.com/glennmagerman)
     - [France](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/) and [here](https://github.com/opencovid19-fr/data):
     - [Germany](https://github.com/jgehrcke/covid-19-germany-gae):
