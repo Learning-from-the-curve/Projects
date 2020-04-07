@@ -11,10 +11,10 @@ Also, you can help by browsing issues and see if you can contribute to a particu
 Data and code are available [here](https://github.com/Learning-from-the-curve/daily-updates).
 
 ## 2. Within-country analysis for several countries (looking for contributors!)
-  - Contributors: (general, not allocated yet:) [Moritz Hennecke](https://github.com/AAoritz), Vincenzo Verardi,  Federico Gallina?
+  - Contributors: (general, not allocated yet:) , Vincenzo Verardi, Mathieu Parenti?, Federico Gallina?
     - Belgium: [Glenn Magerman](https://github.com/glennmagerman)
     - France:
-    - Germany:
+    - Germany: [Moritz Hennecke](https://github.com/AAoritz)?
     - Italy: [Stefano Falcone](), [Elisa Navarra](https://github.com/elisanavarra)
     - Netherlands: Giang Tran
     - Spain: Sofia Amaral-Garcia
