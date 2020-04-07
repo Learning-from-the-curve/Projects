@@ -25,7 +25,7 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
     - France: [COVID](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/), [more COVID](https://github.com/opencovid19-fr/data), [mortality](https://www.cepidc.inserm.fr/causes-medicales-de-deces/interroger-les-donnees-de-mortalite)
     - Germany: [COVID](https://github.com/jgehrcke/covid-19-germany-gae)
     - Italy: [COVID](https://github.com/pcm-dpc/COVID-19), [mortality]( https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
-    - Netherlands: [COVID](https://www.rivm.nl/actuele-informatie-over-coronavirus) [mortality rates](https://www.rivm.nl/monitoring-sterftecijfers-nederland), [cause of death](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table?ts=1586241169874)
+    - Netherlands: [COVID](https://www.rivm.nl/actuele-informatie-over-coronavirus), [mortality](https://www.rivm.nl/monitoring-sterftecijfers-nederland), [cause of death](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table?ts=1586241169874)
     - Spain: [COVID](https://github.com/datadista/datasets/tree/master/COVID%2019)
     - USA: [COVID](https://github.com/nytimes/covid-19-data)
  
