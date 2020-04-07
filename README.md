@@ -17,7 +17,7 @@ Data and code are available [here](https://github.com/Learning-from-the-curve/da
     - Germany: [Moritz Hennecke](https://github.com/AAoritz)?
     - Italy: [Stefano Falcone](), [Elisa Navarra](https://github.com/elisanavarra)
     - Netherlands: Giang Tran
-    - Spain: Sofia Amaral-Garcia
+    - Spain: [Sofia Amaral-Garcia](https://github.com/samaralgarcia)
     - USA:
   - Content: This project will do a within-country analysis for COVID cases and the relationship with demographics, economics etc. Ideally we share the same methodology across counrtries, with sub-teams working per country.
   - Datasets
