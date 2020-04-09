@@ -1,5 +1,5 @@
 # Projects
-This repo describes the current projects on COVID and economics (in no particular order).
+This repo describes the current projects on COVID and economics (in descending order of progress).
 
 Feel free to contact the contributors if you would like to participate.
 Also, you can help by browsing issues and see if you can contribute to a particular small task of a project.
